@@ -119,9 +119,9 @@ const Navbar = () => {
                         duration={500}
                     >
                         <div className="cursor-pointer">
-                            <span className="text-4xl">Kandy</span>
-                            <br/>
-                            <span className="text-xl">Cooking class</span>
+                        <span className="text-4xl">Kandy</span>
+                        <br/>
+                        <span className="text-xl">Cooking class</span>
                         </div>
                     </Link>
 
@@ -138,7 +138,7 @@ const Navbar = () => {
                             duration={500}
                         >
                             <div className="cursor-pointer hov">
-                                About us
+                            About us
                             </div>
                         </Link>
                     </li>
@@ -153,7 +153,7 @@ const Navbar = () => {
                             duration={500}
                         >
                             <div className="cursor-pointer">
-                                Services
+                            Services
                             </div>
                         </Link>
                     </li>
@@ -168,7 +168,7 @@ const Navbar = () => {
                             duration={500}
                         >
                             <div className="cursor-pointer">
-                                Menu
+                            Menu
                             </div>
                         </Link>
                     </li>
@@ -183,7 +183,7 @@ const Navbar = () => {
                             duration={500}
                         >
                             <div className="cursor-pointer">
-                                Herbs
+                            Herbs
                             </div>
                         </Link>
                     </li>
@@ -198,7 +198,7 @@ const Navbar = () => {
                             duration={500}
                         >
                             <div className="cursor-pointer">
-                                Contact us
+                            Contact us
                             </div>
                         </Link>
                     </li>
